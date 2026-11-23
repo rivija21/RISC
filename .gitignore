@@ -1,0 +1,26 @@
+﻿# Quartus generated directories
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+hc_output/
+pll/
+
+# Quartus generated files, reports, and backups
+*.bak
+*.rpt
+*.qws
+*.summary
+*.smsg
+*.pin
+*.jdi
+*.sld
+*.sof
+*.pof
+*.rbf
+*.ttf
+*.hexout
+*.done
+*.qdf
+c5_pin_model_dump.txt
